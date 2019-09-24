@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 if [[ -z $1 ]]
 then
-    wd="~/Desktop/"
+    echo "Provide dir path"
+    exit 1
 else
     wd=$1
 fi
