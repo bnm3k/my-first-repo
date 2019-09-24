@@ -1,3 +1,3 @@
 git tutorial workthrough continuing
-second line
+second line 2
 third line
