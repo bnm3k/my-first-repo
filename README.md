@@ -1,16 +1,7 @@
-# Hello git
+# BNM
 
-**List** 1
-- qwe
-- asd
-- zxc
+### Goals
+- learn git and use it for projects
 
-```bash
-cd ~
-dirs=($(ls -1F | egrep ".+/$"))
-echo "number of dirs is: ${#dirs[*]}"
-```
-
-Use `cd` to change directories
-
-Link to [github](https://www.github.com)
+### contact
+Here's my [twitter profile](https://twitter.com)
